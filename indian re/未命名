@@ -1,0 +1,23 @@
+body {
+  background-color: white ;
+}
+
+img {
+  height: 500px;
+}
+
+.description {
+  font-size: 10px;
+}
+
+.ingredients li {
+
+}
+
+.time {
+
+}
+
+.external-link {
+
+}
